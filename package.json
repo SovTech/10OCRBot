@@ -1,0 +1,28 @@
+{
+  "name": "10ocrbot",
+  "version": "1.0.0",
+  "description": "Simple Bot for SovTech 10OCR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SovTech/10OCRBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SovTech/10OCRBot/issues"
+  },
+  "homepage": "https://github.com/SovTech/10OCRBot#readme",
+  "dependencies": {
+    "botkit": "^0.5.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-latest": "^6.24.1",
+    "standard": "^10.0.2"
+  }
+}
